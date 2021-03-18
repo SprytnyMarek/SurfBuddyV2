@@ -25,3 +25,5 @@ Could have:
 - Possibility to search people by location
 
 Will not have:
+- Register funcionality
+
