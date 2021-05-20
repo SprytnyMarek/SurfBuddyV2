@@ -10,14 +10,14 @@ People who wants to find instructor will get list of instructors matching to pre
 ## MoSCoW requierments:
 
 Must have:
-- Login funcionality
-- Connection to database
-- Create account funcionality
+- Login funcionality (AUTHENTICATION INSTED)
+- Connection to database (IMPLEMENTED but just for authentication)
+- Create account funcionality (IMPLEMENTED)
 
 
 Should have:
-- Intuitive UI
-- Possibility to chat in app and date picker
+- Intuitive UI (IMPLEMENTED)
+- Possibility to chat in app and date picker 
 - Possiblity to rate and add opinion to instructor
 
 Could have:
@@ -25,5 +25,8 @@ Could have:
 - Possibility to search people by location
 
 Will not have:
-- Register funcionality
+- Register funcionality (IMPLEMENTED)
 
+Youtube video:
+
+https://youtu.be/uAzYWdBWdk8
