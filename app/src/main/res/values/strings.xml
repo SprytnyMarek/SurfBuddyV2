@@ -1,3 +1,28 @@
 <resources>
     <string name="app_name">SurfBuddy</string>
+    <string-array name="instructor_Names">
+        <item>Julek, 21</item>
+        <item>Kuba, 21</item>
+        <item>Maks, 21</item>
+        <item>Michelangelo, 15</item>
+        <item>Raphael, 15</item>
+        <item>Donatello, 15</item>
+        <item>Leonardo, 16</item>
+        <item>Rick, 70</item>
+        <item>Morty, 14</item>
+        <item>Ash Ketchum, 10</item>
+    </string-array>
+
+    <string-array name="surf_Types">
+        <item>Kitesurfing</item>
+        <item>Kitesurfing</item>
+        <item>Kitesurfing</item>
+        <item>Windsurfing</item>
+        <item>Windsurfing</item>
+        <item>Windsurfing</item>
+        <item>Windsurfing</item>
+        <item>Surfing</item>
+        <item>Surfing</item>
+        <item>Pokémon Trainer</item>
+    </string-array>
 </resources>
